@@ -1,0 +1,4 @@
+*
+    Content-Security-Policy: frame-ancestors 'self' *.javadoc.io javadoc.io
+    Permissions-Policy: geolocation=(), camera=(), microphone=()
+    Referrer-Policy: strict-origin-when-cross-origin
