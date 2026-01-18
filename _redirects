@@ -1,4 +1,4 @@
-/junit5/docs/*       https://docs.junit.org/:splat:      301
+/junit5/docs/*       https://docs.junit.org/:splat       301
 /junit5/schemas/*    https://schemas.junit.org/:splat    301
 /junit5/*            /:splat                             301
 /junit6/*            /:splat                             301
