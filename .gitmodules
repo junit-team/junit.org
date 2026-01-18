@@ -1,0 +1,4 @@
+[submodule "junit4"]
+	path = junit4
+	url = https://github.com/junit-team/junit4.git
+	branch = gh-pages
