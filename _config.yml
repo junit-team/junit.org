@@ -13,3 +13,5 @@ exclude:
   - Gemfile.lock
   - README.md
   - vendor
+include:
+  - _redirects
