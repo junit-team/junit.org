@@ -147,7 +147,7 @@ Your donations will help to make that a reality!
     <li>
       <a class="cardbronze" href="https://www.testiny.io">
         <div class="cardbronze-image">
-          <img style="width:90%;" src="assets/img/sponsor-logo-Testiny.svg" alt="Testiny">
+          <img style="width:85%;" src="assets/img/sponsor-logo-Testiny.svg" alt="Testiny">
         </div>
         <div class="cardbronze-center">
           <h4>Testiny</h4>
@@ -159,12 +159,12 @@ Your donations will help to make that a reality!
       </a>
     </li>
     <li>
-      <a class="cardbronze" href="https://www.lambdatest.com">
+      <a class="cardbronze" href="https://www.testmu.ai">
         <div class="cardbronze-image">
-          <img style="width:85%;" src="assets/img/sponsor-logo-LambdaTest.svg" alt="LambdaTest">
+          <img style="width:80%;" src="assets/img/sponsor-logo-TestMuAI.svg" alt="TestMu AI">
         </div>
         <div class="cardbronze-center">
-          <h4>LambdaTest</h4>
+          <h4>TestMu AI</h4>
         </div>
         <div class="cardbronze-bottom">
           <h4>Bronze Sponsor</h4>
