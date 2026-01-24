@@ -181,7 +181,6 @@ Your donations will help to make that a reality!
 - linux_china
 - Zerocode
 - Zoran Regvart
-- Tokuhiro Matsuno
 - Atsushi Komiya
 - Peter Schuster
 - André Camilo
