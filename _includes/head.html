@@ -7,12 +7,16 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/img/junit-diamond.png">
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Blinker:wght@100;200;300;400;600;700;800;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+  <link rel="preload" as="style" href="https://assets.junit.org/fonts/index.css">
+  <link rel="preload" as="font" href="https://assets.junit.org/fonts/blinker-latin-300-normal.woff2" type="font/woff2" crossorigin/>
+  <link rel="preload" as="font" href="https://assets.junit.org/fonts/blinker-latin-600-normal.woff2" type="font/woff2" crossorigin/>
+  <link rel="preload" as="font" href="https://assets.junit.org/fonts/inter-latin-wght-normal.woff2" type="font/woff2" crossorigin/>
+  <link rel="preload" as="font" href="https://assets.junit.org/fonts/inter-latin-wght-italic.woff2" type="font/woff2" crossorigin/>
 
+  <link rel="stylesheet" href="https://assets.junit.org/fonts/index.css">
   <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
   <script defer src="//code.jquery.com/jquery-2.2.3.min.js"></script>
