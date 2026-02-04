@@ -3,6 +3,35 @@
 
 @import "bootstrap";
 
+.lucide {
+  width: 1.1em;
+  height: 1.1em;
+  stroke-width: 2px;
+  vertical-align: sub;
+}
+.lucide-lg {
+  width: 1.3em;
+  height: 1.3em;
+  vertical-align: -.3em;
+}
+
+.social-links {
+  svg {
+    width: 20px;
+    height: 20px;
+    vertical-align: -.3em;
+  }
+  a svg path {
+    fill: $link-color;
+  }
+  a:hover svg path {
+    fill: $link-hover-color;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+}
+
 #navbar-main {
 	border: 0;
 	margin-top: 10px;
