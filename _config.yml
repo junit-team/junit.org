@@ -9,6 +9,7 @@ current_repo_url: https://github.com/junit-team/junit-framework
 markdown: kramdown
 exclude:
   - .github
+  - .idea
   - Gemfile
   - Gemfile.lock
   - README.md
