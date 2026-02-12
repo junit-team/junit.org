@@ -159,7 +159,7 @@ Your donations will help to make that a reality!
       </a>
     </li>
     <li>
-      <a class="cardbronze" href="https://www.testmu.ai">
+      <a class="cardbronze" href="https://www.testmuai.com/?utm_medium=sponsor&utm_source=junit">
         <div class="cardbronze-image">
           <img style="width:80%;" src="assets/img/sponsor-logo-TestMuAI.svg" alt="TestMu AI">
         </div>
