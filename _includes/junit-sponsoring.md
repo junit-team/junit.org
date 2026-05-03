@@ -30,24 +30,6 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-    <li>
-      <a class="cardgold" href="https://www.netflix.com">
-        <div class="cardgold-image">
-          <img style="width:80%" src="assets/img/sponsor-logo-Netflix.svg" alt="Netflix">
-        </div>
-        <div class="cardgold-center">
-          <h3>Netflix</h3>
-          <p>
-            Unlimited movies,<br>
-            TV shows, and more
-          </p>
-        </div>
-        <div class="cardgold-bottom">
-          <h4>Gold Sponsor</h4>
-          <p>Since April 2025</p>
-        </div>
-      </a>
-    </li>
   </ul>
 </div>
 
