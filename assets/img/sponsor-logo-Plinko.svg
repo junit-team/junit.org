@@ -1,0 +1,70 @@
+<svg style="background:transparent" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Stylised Plink game logo without text">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#102946"/>
+      <stop offset="100%" stop-color="#06172b"/>
+    </radialGradient>
+    <linearGradient id="cream" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff9ed"/>
+      <stop offset="100%" stop-color="#eadcc6"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="7" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+    <filter id="pegShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="5" flood-color="#000" flood-opacity="0.38"/>
+    </filter>
+    <clipPath id="circleClip">
+      <circle cx="512" cy="512" r="420"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer badge -->
+  <circle cx="512" cy="512" r="455" fill="#06172b"/>
+  <circle cx="512" cy="512" r="420" fill="url(#bg)"/>
+  <circle cx="512" cy="512" r="420" fill="none" stroke="#ffffff" stroke-width="12"/>
+
+  <g clip-path="url(#circleClip)">
+    <!-- Landing pockets -->
+    <g transform="translate(0 0)">
+      <path d="M220 788 C244 808 294 808 318 788 L318 940 L220 940 Z" fill="#ef5b4f"/>
+      <path d="M318 788 C342 808 392 808 416 788 L416 940 L318 940 Z" fill="#f15a4e"/>
+      <path d="M416 788 C440 808 500 808 524 788 L524 940 L416 940 Z" fill="#f7b735"/>
+      <path d="M524 788 C548 808 608 808 632 788 L632 940 L524 940 Z" fill="#73b8a9"/>
+      <path d="M632 788 C656 808 716 808 740 788 L740 940 L632 940 Z" fill="#2f83bf"/>
+      <path d="M740 788 C764 808 814 808 838 788 L838 940 L740 940 Z" fill="#8b55b3"/>
+    </g>
+
+    <!-- Dividers -->
+    <g fill="#ffffff">
+      <rect x="286" y="742" width="18" height="210" rx="4"/>
+      <rect x="398" y="742" width="18" height="210" rx="4"/>
+      <rect x="503" y="742" width="18" height="210" rx="4"/>
+      <rect x="613" y="742" width="18" height="210" rx="4"/>
+      <rect x="725" y="742" width="18" height="210" rx="4"/>
+    </g>
+  </g>
+
+  <!-- Main ball -->
+  <g filter="url(#softShadow)">
+    <circle cx="512" cy="176" r="48" fill="url(#cream)"/>
+    <path d="M486 160 C494 143 514 136 533 139" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.9"/>
+  </g>
+
+  <!-- Peg pyramid -->
+  <g fill="url(#cream)" filter="url(#pegShadow)">
+    <circle cx="512" cy="290" r="20"/>
+    <circle cx="448" cy="366" r="20"/><circle cx="576" cy="366" r="20"/>
+    <circle cx="386" cy="442" r="20"/><circle cx="512" cy="442" r="20"/><circle cx="638" cy="442" r="20"/>
+    <circle cx="325" cy="518" r="20"/><circle cx="448" cy="518" r="20"/><circle cx="576" cy="518" r="20"/><circle cx="699" cy="518" r="20"/>
+    <circle cx="265" cy="594" r="20"/><circle cx="386" cy="594" r="20"/><circle cx="512" cy="594" r="20"/><circle cx="638" cy="594" r="20"/><circle cx="759" cy="594" r="20"/>
+    <circle cx="210" cy="670" r="20"/><circle cx="325" cy="670" r="20"/><circle cx="448" cy="670" r="20"/><circle cx="576" cy="670" r="20"/><circle cx="699" cy="670" r="20"/><circle cx="814" cy="670" r="20"/>
+  </g>
+
+  <!-- Small peg highlights -->
+  <g fill="#ffffff" opacity="0.65">
+    <circle cx="505" cy="283" r="6"/>
+    <circle cx="441" cy="359" r="6"/><circle cx="569" cy="359" r="6"/>
+    <circle cx="379" cy="435" r="6"/><circle cx="505" cy="435" r="6"/><circle cx="631" cy="435" r="6"/>
+  </g>
+</svg>

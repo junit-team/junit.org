@@ -127,6 +127,9 @@ footer {
     height: 120px;
     line-height: 120px;
     overflow: hidden;
+    img {
+        max-height: 120px;
+    }
 }
 
 .cardgold-center {
@@ -176,6 +179,9 @@ footer {
     height: 100px;
     line-height: 100px;
     overflow: hidden;
+    img {
+        max-height: 100px;
+    }
 }
 
 .cardsilver-center {
@@ -225,6 +231,9 @@ footer {
     height: 80px;
     line-height: 80px;
     overflow: hidden;
+    img {
+        max-height: 80px;
+    }
 }
 
 .cardbronze-center {
