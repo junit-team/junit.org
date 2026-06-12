@@ -13,4 +13,5 @@ You're invited to follow our ongoing work, review it, and give feedback. The fol
 
 - [User Guide](https://docs.junit.org)
 - [Javadoc](https://api.junit.org)
-- [GitHub Repository]({{ site.current_repo_url }}) with source code and issue tracker
+- [Repository]({{ site.current_repo_url }}) with source code and issue tracker
+- [Discussions]({{ site.current_repo_url }}/discussions/categories/q-a) for asking questions
