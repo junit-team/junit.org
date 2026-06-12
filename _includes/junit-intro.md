@@ -5,7 +5,7 @@ It requires Java 17 and Kotlin 2.1 or above and enables many different styles of
 
 ### Resources
 
-<a href="https://blogs.oracle.com/java/2019-dukes-choice-award-winners" class="pull-right">
+<a rel="noopener" href="https://blogs.oracle.com/java/2019-dukes-choice-award-winners" class="pull-right">
     <img src="{{ site.baseurl }}/assets/img/dukes-choice-award.jpg" alt="Duke's Choice Award" width="170">
 </a>
 
@@ -13,4 +13,5 @@ You're invited to follow our ongoing work, review it, and give feedback. The fol
 
 - [User Guide](https://docs.junit.org)
 - [Javadoc](https://api.junit.org)
-- [GitHub Repository]({{ site.current_repo_url }}) with source code and issue tracker
+- [Repository]({{ site.current_repo_url }}) with source code and issue tracker
+- [Discussions]({{ site.current_repo_url }}/discussions/categories/q-a) for asking questions
