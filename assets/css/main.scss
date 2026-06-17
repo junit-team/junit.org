@@ -15,17 +15,17 @@
   vertical-align: -.3em;
 }
 
-.social-links {
+.social-link {
   svg {
     width: 20px;
     height: 20px;
     vertical-align: -.3em;
   }
   a svg path {
-    fill: $link-color;
+    fill: #777;
   }
   a:hover svg path {
-    fill: $link-hover-color;
+    fill: #333;
   }
   a:hover {
     text-decoration: none;
