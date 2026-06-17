@@ -172,20 +172,6 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-    <li>
-      <a class="cardbronze" rel="nofollow noopener" href="https://spinthewheel.io/">
-        <div class="cardbronze-image">
-          <img style="width:80%;" src="assets/img/sponsor-logo-SpinTheWheel.svg" alt="Spin the Wheel">
-        </div>
-        <div class="cardbronze-center">
-          <h4>Spin the Wheel</h4>
-        </div>
-        <div class="cardbronze-bottom">
-          <h4>Bronze Sponsor</h4>
-          <p>Since June 2026</p>
-        </div>
-      </a>
-    </li>
   </ul>
 </div>
 
