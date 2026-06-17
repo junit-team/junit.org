@@ -186,20 +186,6 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-    <li>
-      <a class="cardbronze" rel="nofollow noopener" href="https://plinko.free/">
-        <div class="cardbronze-image">
-          <img src="assets/img/sponsor-logo-Plinko.svg" alt="Plinko">
-        </div>
-        <div class="cardbronze-center">
-          <h4>Plinko</h4>
-        </div>
-        <div class="cardbronze-bottom">
-          <h4>Bronze Sponsor</h4>
-          <p>Since June 2026</p>
-        </div>
-      </a>
-    </li>
   </ul>
 </div>
 
