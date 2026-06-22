@@ -12,8 +12,15 @@ $warning:   #f0ad4e;
 $danger:    #dc524a;
 $jumbotron-bg: #f8f9fa; // gray-100
 
+// Bootstrap 5 auto-picks button/badge text color via WCAG contrast against this
+// ratio (default 4.5). At 4.5 white text fails on our mid-tone green/red and falls
+// back to black; 3 restores white (still AA for the large `btn-lg` buttons).
+$min-contrast-ratio: 3;
+
 // Links use the danger (red) color, as in the previous Bootstrap 3 theme.
 $link-color: $danger;
+// Bootstrap 5 underlines links by default; keep them undecorated as before.
+$link-decoration: none;
 
 // Fonts — Inter for body copy, Blinker for headings (loaded via assets.junit.org).
 $font-family-sans-serif: "Inter Variable", "Helvetica Neue", Helvetica, Arial, sans-serif;

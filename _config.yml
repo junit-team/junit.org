@@ -7,6 +7,13 @@ current_repo_url: https://github.com/junit-team/junit-framework
 
 # Build settings
 markdown: kramdown
+sass:
+  # Silence Dart Sass deprecation warnings emitted by the vendored Bootstrap SCSS.
+  quiet_deps: true
+  # Bootstrap 5.3 is consumed via @import (it isn't @use-ready yet), so silence that
+  # transitional deprecation on our own entry files too.
+  silence_deprecations:
+    - import
 exclude:
   - .github
   - .idea

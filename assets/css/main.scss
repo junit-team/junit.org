@@ -22,10 +22,7 @@
     vertical-align: -.3em;
   }
   a svg path {
-    fill: #777;
-  }
-  a:hover svg path {
-    fill: #333;
+    fill: currentColor;
   }
   a:hover {
     text-decoration: none;
@@ -64,8 +61,19 @@ $navbar-height: 50px;
 #navbar-main .container-fluid {
 	padding: 0;
 }
+/* Jumbotron — removed from Bootstrap in v5, styles preserved here.
+-------------------------------------------------- */
 .jumbotron {
+	padding: 2rem 1rem;
+	margin-bottom: 2rem;
+	background-color: $jumbotron-bg;
+	border-radius: $border-radius-lg;
 	text-align: center;
+}
+@include media-breakpoint-up(sm) {
+	.jumbotron {
+		padding: 4rem 2rem;
+	}
 }
 .jumbotron h1 {
 	margin-bottom: 30px;
