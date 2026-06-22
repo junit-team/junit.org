@@ -5,7 +5,7 @@ It requires Java 17 and Kotlin 2.1 or above and enables many different styles of
 
 ### Resources
 
-<a rel="noopener" href="https://blogs.oracle.com/java/2019-dukes-choice-award-winners" class="pull-right">
+<a rel="noopener" href="https://blogs.oracle.com/java/2019-dukes-choice-award-winners" class="float-right">
     <img src="{{ site.baseurl }}/assets/img/dukes-choice-award.jpg" alt="Duke's Choice Award" width="170">
 </a>
 

@@ -1,0 +1,21 @@
+// JUnit theme customizations.
+//
+// These override Bootstrap's defaults and must be imported *before* Bootstrap's
+// own `_variables.scss` so that its `!default` values defer to ours. See
+// `_bootstrap.scss`.
+
+// Brand colors — JUnit green for primary/success, JUnit red for danger.
+$primary:   #25a162;
+$success:   #25a162;
+$info:      #5bc0de;
+$warning:   #f0ad4e;
+$danger:    #dc524a;
+$jumbotron-bg: #f8f9fa; // gray-100
+
+// Links use the danger (red) color, as in the previous Bootstrap 3 theme.
+$link-color: $danger;
+
+// Fonts — Inter for body copy, Blinker for headings (loaded via assets.junit.org).
+$font-family-sans-serif: "Inter Variable", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$headings-font-family:   Blinker, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$headings-font-weight:   600;

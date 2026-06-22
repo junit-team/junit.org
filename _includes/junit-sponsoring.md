@@ -11,7 +11,7 @@ Your donations will help to make that a reality!
 [//]: # (Gold Sponsor Badges)
 <div align="center">
   <ul class="list-inline">
-    <li>
+    <li class="list-inline-item">
       <a class="cardgold" rel="nofollow noopener" href="https://jb.gg/junit-logo">
         <div class="cardgold-image">
           <img style="width:85%" src="assets/img/sponsor-logo-JetBrains.svg" alt="JetBrains">
@@ -30,7 +30,7 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-    <li>
+    <li class="list-inline-item">
       <a class="cardgold" rel="nofollow noopener" href="https://www.netflix.com">
         <div class="cardgold-image">
           <img style="width:80%" src="assets/img/sponsor-logo-Netflix.svg" alt="Netflix">
@@ -54,7 +54,7 @@ Your donations will help to make that a reality!
 [//]: # (Silver Sponsor Badges)
 <div align="center">
   <ul class="list-inline">
-    <li>
+    <li class="list-inline-item">
       <a class="cardsilver" rel="nofollow noopener" href="https://www.micromata.de">
         <div class="cardsilver-image">
           <img style="width:90%" src="assets/img/sponsor-logo-Micromata.svg" alt="MICROMATA">
@@ -68,7 +68,7 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-    <li>
+    <li class="list-inline-item">
       <a class="cardsilver" rel="nofollow noopener" href="https://quo-digital.jp">
         <div class="cardsilver-image">
           <img style="height:70%" src="assets/img/sponsor-logo-QuoCard.svg" alt="QUO CARD">
@@ -88,7 +88,7 @@ Your donations will help to make that a reality!
 [//]: # (Bronze Sponsor Badges)
 <div align="center">
   <ul class="list-inline">
-    <li>
+    <li class="list-inline-item">
       <a class="cardbronze" rel="nofollow noopener" href="https://www.premium-minds.com">
         <div class="cardbronze-image">
           <img style="width:80%; padding-top:5px" src="assets/img/sponsor-logo-PremiumMinds.svg" alt="Premium Minds">
@@ -102,7 +102,7 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-    <li>
+    <li class="list-inline-item">
       <a class="cardbronze" rel="nofollow noopener" href="https://codefortynine.com">
         <div class="cardbronze-image">
           <img style="width:90%" src="assets/img/sponsor-logo-codefortynine.svg" alt="codefortynine">
@@ -116,7 +116,7 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-    <li>
+    <li class="list-inline-item">
       <a class="cardbronze" rel="nofollow noopener" href="https://www.infosupport.com">
         <div class="cardbronze-image">
           <img style="width:80%; padding-top:10px" src="assets/img/sponsor-logo-InfoSupport.svg" alt="Info Support">
@@ -130,7 +130,7 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-    <li>
+    <li class="list-inline-item">
       <a class="cardbronze" rel="nofollow noopener" href="https://route4me.com">
         <div class="cardbronze-image">
           <img style="width:90%;" src="assets/img/sponsor-logo-Route4Me.svg" alt="Route4Me">
@@ -144,7 +144,7 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-    <li>
+    <li class="list-inline-item">
       <a class="cardbronze" rel="nofollow noopener" href="https://www.testiny.io">
         <div class="cardbronze-image">
           <img style="width:85%;" src="assets/img/sponsor-logo-Testiny.svg" alt="Testiny">
@@ -158,7 +158,7 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-    <li>
+    <li class="list-inline-item">
       <a class="cardbronze" rel="nofollow noopener" href="https://www.testmuai.com/?utm_medium=sponsor&utm_source=junit">
         <div class="cardbronze-image">
           <img style="width:80%;" src="assets/img/sponsor-logo-TestMuAI.svg" alt="TestMu AI">
