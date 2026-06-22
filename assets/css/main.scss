@@ -95,22 +95,20 @@ $navbar-height: 50px;
 	margin-top: 7px;
 }
 
-/* Sticky footer styles
+/* Sticky footer styles (flexbox)
 -------------------------------------------------- */
-$footer_height: 40px;
-html {
-	position: relative;
-	min-height: 100%;
-}
 body {
-	margin-bottom: $footer_height * 2;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+body > .container {
+	flex: 1 0 auto;
 }
 footer {
-	padding-top: calc((#{$footer_height} - #{$line-height-base} * #{$font-size-base}) / 2);
-	position: absolute;
-	bottom: 0;
-	width: 100%;
-	height: $footer_height;
+	flex-shrink: 0;
+	padding-top: 8px;
+	padding-bottom: 8px;
 	background-color: $gray-100;
 	color: $gray-500;
 }
