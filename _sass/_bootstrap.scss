@@ -4,6 +4,34 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
-// Our variable overrides must come first so Bootstrap's `!default` values defer to them.
-@import "custom-variables";
-@import "bootstrap/bootstrap";
+// Only the parts of Bootstrap this site actually uses are imported, to keep the
+// compiled CSS small. The blocks marked "required" are Bootstrap's configuration
+// and the utilities API and must stay; the components list is everything index.html
+// uses (buttons, button group, nav/navbar, dropdown, grid, images). Add a component's
+// `@import` here if you start using it.
+
+// Configuration (required)
+@import "bootstrap/functions";
+@import "custom-variables"; // our overrides — must sit between functions and variables
+@import "bootstrap/variables";
+@import "bootstrap/variables-dark";
+@import "bootstrap/maps";
+@import "bootstrap/mixins";
+@import "bootstrap/utilities";
+
+// Layout & components (only what's used)
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/type";
+@import "bootstrap/images";
+@import "bootstrap/containers";
+@import "bootstrap/grid";
+@import "bootstrap/buttons";
+@import "bootstrap/transitions";   // .collapse/.collapsing for the navbar toggler
+@import "bootstrap/dropdown";
+@import "bootstrap/button-group";
+@import "bootstrap/nav";
+@import "bootstrap/navbar";
+
+// Utilities API (required — generates .d-*, .text-*, .float-*, .m-*/.p-*, etc.)
+@import "bootstrap/utilities/api";
