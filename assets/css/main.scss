@@ -41,9 +41,6 @@ $navbar-height: 50px;
 		margin-top: 50px;
 		margin-bottom: 30px;
 	}
-    .jumbotron h1 {
-        font-size: 2.25rem !important;
-    }
 }
 .navbar-brand {
 	margin-top: -15px;
@@ -66,7 +63,7 @@ $navbar-height: 50px;
 .jumbotron {
 	padding: 2rem 1rem;
 	margin-bottom: 2rem;
-	background-color: $jumbotron-bg;
+	background-color: tint-color($primary, 90%);
 	border-radius: $border-radius-lg;
 	text-align: center;
 }
