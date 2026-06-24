@@ -177,19 +177,21 @@ Your donations will help to make that a reality!
 
 ### Backers
 
-- Stefan Gwihs
-- linux_china
-- Zerocode
-- Zoran Regvart
-- Atsushi Komiya
-- Peter Schuster
-- André Camilo
-- Christian Femers
-- Niklas Seyfarth
-- Ravi Vasamsetty
-- Jun Nakamura
-- Sebastian Staack
-- Paul Schaub
-- Hiroshi Ito
-- Gabi Moreno
-- Nicolai Parlog
+<ul class="list-inline">
+  <li class="list-inline-item">Stefan Gwihs</li>
+  <li class="list-inline-item">linux_china</li>
+  <li class="list-inline-item">Zerocode</li>
+  <li class="list-inline-item">Zoran Regvart</li>
+  <li class="list-inline-item">Atsushi Komiya</li>
+  <li class="list-inline-item">Peter Schuster</li>
+  <li class="list-inline-item">André Camilo</li>
+  <li class="list-inline-item">Christian Femers</li>
+  <li class="list-inline-item">Niklas Seyfarth</li>
+  <li class="list-inline-item">Ravi Vasamsetty</li>
+  <li class="list-inline-item">Jun Nakamura</li>
+  <li class="list-inline-item">Sebastian Staack</li>
+  <li class="list-inline-item">Paul Schaub</li>
+  <li class="list-inline-item">Hiroshi Ito</li>
+  <li class="list-inline-item">Gabi Moreno</li>
+  <li class="list-inline-item">Nicolai Parlog</li>
+</ul>
