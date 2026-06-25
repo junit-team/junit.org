@@ -177,88 +177,55 @@ Your donations will help to make that a reality!
 
 ### Backers
 
-<div align="center">
-  <ul class="list-inline">
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Stefan Gwihs
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        linux_china
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Zerocode
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Zoran Regvart
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Atsushi Komiya
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Peter Schuster
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        André Camilo
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Christian Femers
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Niklas Seyfarth
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Ravi Vasamsetty
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Jun Nakamura
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Sebastian Staack
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Paul Schaub
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Hiroshi Ito
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Gabi Moreno
-      </div>
-    </li>
-    <li class="list-inline-item">
-      <div class="cardbacker">
-        Nicolai Parlog
-      </div>
-    </li>
-  </ul>
+<div class="container text-center my-4">
+  <div class="row row-cols-2 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 row-cols-xxl-5 gy-3">
+    <div class="col">
+      Stefan Gwihs
+    </div>
+    <div class="col">
+      linux_china
+    </div>
+    <div class="col">
+      Zerocode
+    </div>
+    <div class="col">
+      Zoran Regvart
+    </div>
+    <div class="col">
+      Atsushi Komiya
+    </div>
+    <div class="col">
+      Peter Schuster
+    </div>
+    <div class="col">
+      André Camilo
+    </div>
+    <div class="col">
+      Christian Femers
+    </div>
+    <div class="col">
+      Niklas Seyfarth
+    </div>
+    <div class="col">
+      Ravi Vasamsetty
+    </div>
+    <div class="col">
+      Jun Nakamura
+    </div>
+    <div class="col">
+      Sebastian Staack
+    </div>
+    <div class="col">
+      Paul Schaub
+    </div>
+    <div class="col">
+      Hiroshi Ito
+    </div>
+    <div class="col">
+      Gabi Moreno
+    </div>
+    <div class="col">
+      Nicolai Parlog
+    </div>
+  </div>
 </div>
-
