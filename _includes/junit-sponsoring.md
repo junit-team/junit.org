@@ -177,21 +177,88 @@ Your donations will help to make that a reality!
 
 ### Backers
 
-<ul class="list-inline">
-  <li class="list-inline-item">Stefan Gwihs</li>
-  <li class="list-inline-item">linux_china</li>
-  <li class="list-inline-item">Zerocode</li>
-  <li class="list-inline-item">Zoran Regvart</li>
-  <li class="list-inline-item">Atsushi Komiya</li>
-  <li class="list-inline-item">Peter Schuster</li>
-  <li class="list-inline-item">André Camilo</li>
-  <li class="list-inline-item">Christian Femers</li>
-  <li class="list-inline-item">Niklas Seyfarth</li>
-  <li class="list-inline-item">Ravi Vasamsetty</li>
-  <li class="list-inline-item">Jun Nakamura</li>
-  <li class="list-inline-item">Sebastian Staack</li>
-  <li class="list-inline-item">Paul Schaub</li>
-  <li class="list-inline-item">Hiroshi Ito</li>
-  <li class="list-inline-item">Gabi Moreno</li>
-  <li class="list-inline-item">Nicolai Parlog</li>
-</ul>
+<div align="center">
+  <ul class="list-inline">
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Stefan Gwihs
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        linux_china
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Zerocode
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Zoran Regvart
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Atsushi Komiya
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Peter Schuster
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        André Camilo
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Christian Femers
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Niklas Seyfarth
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Ravi Vasamsetty
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Jun Nakamura
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Sebastian Staack
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Paul Schaub
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Hiroshi Ito
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Gabi Moreno
+      </div>
+    </li>
+    <li class="list-inline-item">
+      <div class="cardbacker">
+        Nicolai Parlog
+      </div>
+    </li>
+  </ul>
+</div>
+
