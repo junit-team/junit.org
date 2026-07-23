@@ -11,7 +11,7 @@ You're invited to follow our ongoing work, review it, and give feedback. The fol
 </a>
 
 - [User Guide](https://docs.junit.org)
-- [Javadoc](https://api.junit.org)
+- [Javadoc](https://docs.junit.org/current/api/)
 - Repositories:
   - [GitHub]({{ site.current_repo_url }}) (source code and issue tracker)
   - [Codeberg](https://codeberg.org/junit-team/junit-framework) (mirror)
