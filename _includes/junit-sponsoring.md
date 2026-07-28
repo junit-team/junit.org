@@ -222,9 +222,6 @@ Your donations will help to make that a reality!
       Hiroshi Ito
     </div>
     <div class="col">
-      Gabi Moreno
-    </div>
-    <div class="col">
       Nicolai Parlog
     </div>
   </div>
