@@ -1,0 +1,61 @@
+---
+layout: default
+title: JUnit Logo Guidelines
+hide_header: true
+sections:
+  - title: Logo
+    col: col-md-6 col-xl-4
+    tiles:
+      - { caption: "Color — light background", file: junit-logo, dark: false }
+      - { caption: "Color — dark background", file: junit-logo-inverted-white, dark: true }
+      - { caption: "Color — dark background (muted)", file: junit-logo-inverted-darker, dark: true }
+      - { caption: "Monotone — light background", file: junit-logo-mono, dark: false }
+      - { caption: "Monotone — dark background", file: junit-logo-mono-dark, dark: true }
+      - { caption: "Monotone — dark background (muted)", file: junit-logo-mono-dark-muted, dark: true }
+  - title: Icon
+    col: col-4 col-md-2
+    tiles:
+      - { caption: "Color — light background", file: junit-diamond, dark: false }
+      - { caption: "Color — dark background", file: junit-diamond-inverted-white, dark: true }
+      - { caption: "Color — dark background (muted)", file: junit-diamond-dark, dark: true }
+      - { caption: "Monotone — light background", file: junit-diamond-mono, dark: false }
+      - { caption: "Monotone — dark background", file: junit-diamond-mono-dark, dark: true }
+      - { caption: "Monotone — dark background (muted)", file: junit-diamond-mono-dark-muted, dark: true }
+---
+<div class="mt-4">
+  <a class="btn btn-outline-secondary btn-sm" href="{{ site.baseurl }}/" role="button"><i data-lucide="arrow-left"></i>&nbsp; Back to junit.org</a>
+</div>
+
+<h1 class="mt-4">Logo Guidelines</h1>
+<p>
+  The JUnit logo is licensed under the
+  <a class="cc-license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="{{ site.baseurl }}/assets/img/cc-cc.svg" alt=""><img src="{{ site.baseurl }}/assets/img/cc-by.svg" alt=""><img src="{{ site.baseurl }}/assets/img/cc-nc.svg" alt=""><img src="{{ site.baseurl }}/assets/img/cc-nd.svg" alt="">
+    CC BY-NC-ND 4.0</a>
+  license.
+</p>
+<p>
+  If you'd like to license the logo for commercial purposes, please contact
+  <a class="email" data-name="team" data-domain="junit.org" href="#"></a>.
+</p>
+<script>
+  // Assembled at runtime so the address doesn't appear in the HTML for spam harvesters
+  var email = document.querySelector("a.email");
+  email.href = "mailto:" + email.dataset.name + "@" + email.dataset.domain;
+</script>
+
+{% for section in page.sections %}
+<h2 class="mt-4">{{ section.title }}</h2>
+<div class="row g-4{% if forloop.last %} mb-4{% endif %}">
+  {% for tile in section.tiles %}
+  <div class="{{ section.col }}">
+    <div class="logo-tile{% if tile.dark %} logo-tile-dark{% endif %}">
+      <img src="{{ site.baseurl }}/assets/img/{{ tile.file }}.svg" alt="JUnit {{ section.title | downcase }}: {{ tile.caption }}">
+    </div>
+    <div class="small mt-1 text-center">
+      <a href="{{ site.baseurl }}/assets/img/{{ tile.file }}.svg" download>SVG</a> ·
+      <a href="{{ site.baseurl }}/assets/img/{{ tile.file }}.png" download>PNG</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endfor %}

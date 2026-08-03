@@ -96,6 +96,37 @@ $navbar-height: 50px;
   }
 }
 
+/* Logo guidelines page (/logo/)
+-------------------------------------------------- */
+.logo-tile {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 2rem 1.5rem;
+	background-color: #fff;
+	border: 1px solid $gray-400;
+	border-radius: $border-radius-lg;
+	img {
+		max-width: 100%;
+		max-height: 80px;
+	}
+}
+.logo-tile-dark {
+	background-color: #292629;
+	border-color: #292629;
+}
+.cc-license img {
+	height: 1.35em;
+	vertical-align: text-bottom;
+	+ img {
+		margin-left: .25em;
+	}
+}
+/* Assembled via CSS so the address doesn't appear in the HTML for spam harvesters */
+.email::after {
+	content: attr(data-name) "\0040" attr(data-domain);
+}
+
 #events dt {
 	margin-top: 7px;
 }
