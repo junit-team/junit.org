@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:security@junit.org
+Contact: https://github.com/junit-team/junit-framework/security/advisories/new
+Encryption: https://keys.openpgp.org/search?q=security%40junit.org
+Policy: https://github.com/junit-team/junit-framework/security/policy
+Preferred-Languages: en
+Canonical: https://junit.org/.well-known/security.txt
+Expires: 2027-08-14T09:41:28Z
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEAVLaMOq8errcsJ0Q2aaxMp0ZHSUFAmp+4sgACgkQ2aaxMp0Z
+HSX1qA/7BAzgDFMsGwSM0PYtb/un7zfkJreg0IWvuFYcVhUNcG8gh5yev8sKIBRN
+Y5yo46pWWGNMJKfoUySoLxq4DthwYz+lBvqO+goI58L8mxWj1x9GE2WWYvva7OhC
+N61OXa4gtCn57TY+XztX7j24oryRv75/RAlBN4P5VTmU9xLMzHY77+wrqqV6eJzy
+5+iFj95lB/PMpovGTo+CiOOOmFz2Bf/kV8YUD6rxE0SB+eSG43b2DUnvP9jcbCMn
+T6mXBHbF+tt6WG/EiQ6Rm3KtZTn6nTqnd9or4PANzOHJNM7dzRlRo8umZX3wm+Gg
+Cg8NBexDpz6206H/3WqJ42bGKFzOBHNDGhyGgMPZ/vQfeG9Q4iuiWDalwFHQnUiE
+YS0/DvmNQXIVYGmjHXsqhfuXghaqKBxxg08LxFX+a1UNh3JGJ0LA4279tUppSgY1
+UXZ/Wc3FsLv8utPBW+aqJblm7dbR5HJvf1p8qQEpc4Oe9N20O936ok33z8fu1RgZ
+vsOpY+NGsef4GgQALWIS3M3H+gZ9u+HoqjMC6I3pdc5pzmfaK/Xmiyy+bDCq4J+D
+jU9SOpXUe+XxZX5a6/fvZDQeQ0kGD7vGdQdYJndVHysU9D/DeowxsIZGUHGkuQqu
+NK42Xu1UbXADaIyFxbjU1m03B0YabJZVpD9Zbm3rnw0IztJzd0A=
+=I2Td
+-----END PGP SIGNATURE-----

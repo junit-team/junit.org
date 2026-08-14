@@ -22,7 +22,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - scripts
   - vendor
 include:
   - _headers
   - _redirects
+  - .well-known

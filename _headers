@@ -2,3 +2,6 @@
     Content-Security-Policy: frame-ancestors 'self' *.javadoc.io javadoc.io
     Permissions-Policy: geolocation=(), camera=(), microphone=()
     Referrer-Policy: strict-origin-when-cross-origin
+
+/.well-known/security.txt
+    Content-Type: text/plain; charset=utf-8
