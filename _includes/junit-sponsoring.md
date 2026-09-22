@@ -56,9 +56,8 @@ Your donations will help to make that a reality!
         <div class="cardgold-center">
           <h3>Amazon Web Services</h3>
           <p>
-            Amazon Web Services is the world’s most comprehensive<br>
-            and broadly adopted cloud, enabling customers to build<br>
-            almost anything they can imagine.
+            The world’s most comprehensive<br>
+            and broadly adopted cloud.
           </p>
         </div>
         <div class="cardgold-bottom">
