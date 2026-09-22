@@ -48,6 +48,25 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
+    <li class="list-inline-item">
+      <a class="cardgold" rel="nofollow noopener" href="https://aws.amazon.com">
+        <div class="cardgold-image">
+          <img style="width:80%" src="assets/img/sponsor-logo-Amazon.svg" alt="Amazon Web Services">
+        </div>
+        <div class="cardgold-center">
+          <h3>Amazon Web Services</h3>
+          <p>
+            Amazon Web Services is the world’s most comprehensive<br>
+            and broadly adopted cloud, enabling customers to build<br>
+            almost anything they can imagine.
+          </p>
+        </div>
+        <div class="cardgold-bottom">
+          <h4>Gold Sponsor</h4>
+          <p>Since September 2026</p>
+        </div>
+      </a>
+    </li>
   </ul>
 </div>
 
