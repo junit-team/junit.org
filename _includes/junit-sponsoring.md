@@ -158,20 +158,6 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-    <li class="list-inline-item">
-      <a class="cardbronze" rel="nofollow noopener" href="https://www.testmuai.com/?utm_medium=sponsor&utm_source=junit">
-        <div class="cardbronze-image">
-          <img style="width:80%;" src="assets/img/sponsor-logo-TestMuAI.svg" alt="TestMu AI">
-        </div>
-        <div class="cardbronze-center">
-          <h4>TestMu AI</h4>
-        </div>
-        <div class="cardbronze-bottom">
-          <h4>Bronze Sponsor</h4>
-          <p>Since September 2025</p>
-        </div>
-      </a>
-    </li>
   </ul>
 </div>
 
