@@ -30,4 +30,4 @@
 /surefire-report.html           https://junit.org/junit4/surefire-report.html           301
 /team-list.html                 https://junit.org/junit4/team-list.html                 301
 /junit5.html         /                                   301
-/sponsoring/         https://github.com/sponsors/junit-team      301
+/sponsoring*         https://github.com/sponsors/junit-team      301
